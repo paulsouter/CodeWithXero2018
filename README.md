@@ -50,3 +50,4 @@
 * Bernard
 
 ## Otago University Students
+* Paul Souter
